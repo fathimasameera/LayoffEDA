@@ -2,14 +2,13 @@
 
 ## Overview
 
-This repository contains the code and analysis for an exploratory data analysis (EDA) project on layoffs using the 'layoffs_data.csv' dataset. The dataset tracks and analyzes layoffs in various companies, providing insights into workforce reductions within different industries and geographical locations.
+This repository contains the code and analysis for an exploratory data analysis (EDA) project on layoffs using the 'layoffs_data.csv' dataset. The dataset tracks and analyses layoffs in various companies, providing insights into workforce reductions within different industries and geographical locations.
 
 ## Project Structure
 
-- **code**: Contains the Jupyter Notebook or Python script used for data analysis.
-- **data**: Stores the 'layoffs_data.csv' dataset.
-- **images**: Contains images or visualizations generated during the analysis.
-- **README.md**: The main documentation file you are currently reading.
+- **code(EDALayoff.ipynb)**: Contains the Jupyter Notebook or Python script used for data analysis.
+- **README.md**: The main documentation file.
+- **data(layoffs_data.csv)**: Stores the 'layoffs_data.csv' dataset.
 
 ## Dataset
 
@@ -27,5 +26,18 @@ The 'layoffs_data.csv' dataset includes the following columns:
 
 ## Exploratory Data Analysis
 
-Provides a summary of the key findings and insights obtained from the EDA. Include visualizations, charts, or graphs to illustrate important trends or patterns observed in the data.
+Exploratory Data Analysis provides a summary of the key findings and insights obtained from the data. It uses visualizations, charts, or graphs to illustrate important trends or patterns observed. Here, we delve into the 'layoffs_data.csv' dataset to uncover key insights and trends related to layoffs in various companies and industries. 
+
+## Dependencies
+
+This project requires the following dependencies:
+
+- Python 3.x
+- Pandas
+- Matplotlib
+- Seaborn
+
+
+
+
 
