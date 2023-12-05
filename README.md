@@ -6,9 +6,9 @@ This repository contains the code and analysis for an exploratory data analysis 
 
 ## Project Structure
 
-- **code/**: Contains the Jupyter Notebook or Python script used for data analysis.
-- **data/**: Stores the 'layoffs_data.csv' dataset.
-- **images/**: Contains images or visualizations generated during the analysis.
+- **code**: Contains the Jupyter Notebook or Python script used for data analysis.
+- **data**: Stores the 'layoffs_data.csv' dataset.
+- **images**: Contains images or visualizations generated during the analysis.
 - **README.md**: The main documentation file you are currently reading.
 
 ## Dataset
